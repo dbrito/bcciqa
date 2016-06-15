@@ -1,51 +1,66 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-main() {
-  	
-}
-
 //Oxigênio Dissolvido, peso 0,17
-oxigenio(){
-	printf("Oxigênio\n");
+int oxigenio() {
+	printf("Oxigênio dissolvido (mg/L)\n");
 }
 
 //Coliformes Fecais, peso 0,15
-coliformes(){
+int coliformes() {
 	printf("Coliformes\n");
 }
 
 //Potencial Hidrogeniônico, peso 0,12
-potencialHidrogenionico(){
+int potencialHidrogenionico() {
 	printf("Potencial Hidrogeniônico\n");
 }
 
 //Demanda Bioquimica de Oxigênio, peso 0,10
-demandaOxigenio(){
+int demandaOxigenio() {
 	printf("Demanda Bioquimica de Oxigênio\n");
 }
 
 //Temperatura, peso 0,10
-temperatura(){
+int temperatura() {
 	printf("Temperatura\n");
 }
 
 //Nitrogênio Total, peso 0,10
-nitrogenio(){
+int nitrogenio() {
 	printf("Nitrogênio\n");
 }
 
 //Fósforo Total, peso 0,10
-fosforo(){
+int fosforo() {
 	printf("Fósforo\n");
 }
 
 //Turbidez, peso 0,08
-turbidez(){
+int turbidez() {
 	printf("Turbidez\n");
 }
 
 //Resíduo Total, peso 0,08
-residuo(){
+int residuos() {
 	printf("Resíduo Total\n");
+}
+
+//Calcula o Indice de Qualidade da Água
+int IQA() {
+	printf("IQA\n");
+}
+
+int main() {
+  	oxigenio();
+  	coliformes();
+  	potencialHidrogenionico();
+  	demandaOxigenio();
+  	temperatura();
+  	nitrogenio();
+  	fosforo();
+  	turbidez();
+  	residuos();
+  	IQA();
+  	return 0;
 }
