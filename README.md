@@ -7,8 +7,11 @@ Para utilizar o programa antes de tudo é necessaria compilar o mesmo, para real
 gcc main.c -o main -lm
 ./main
 ```
+
 ![Comando](./comando.png "Comando")
+
 Após isso basta preencher os parametros solicitados pelo programa para saber o resultado(IQA).
+
 ![resultado](./resultado.png "resultado")
 
 #Observação:
