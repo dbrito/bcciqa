@@ -1,5 +1,5 @@
-# IQA
-O sofware tem como objetivo realizar o cálculo o Indice de Qualidade da Água(IQA).
+# Índice de Qualidade da Água(IQA)
+O sofware tem como objetivo realizar o cálculo o Índice de Qualidade da Água(IQA).
 
 ##Usando o programa:
 Para utilizar o programa antes de tudo é necessaria compilar o mesmo, para realizar tal processo pasta realizar o comando abaixo:
