@@ -1,5 +1,7 @@
 # IQA - Índice de Qualidade da Água
 O sofware tem como objetivo realizar o cálculo o Índice de Qualidade da Água(IQA).
+http://www.engenhariaambiental.unir.br/admin/prof/arq/calculo-IQA.pdf
+
 
 ##Usando o programa:
 Para utilizar o programa antes de tudo é necessaria compilar o mesmo, para realizar tal processo pasta realizar o comando abaixo:
