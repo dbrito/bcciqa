@@ -14,5 +14,5 @@ Após isso basta preencher os parametros solicitados pelo programa para saber o 
 
 ![resultado](./resultado.png "resultado")
 
-#Observação:
+##Observação:
 Para os usuários do SO Windows é necessario instalar o módulo **gcc**, para isso basta seguir a tutorial desse site: http://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/
