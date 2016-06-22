@@ -1,4 +1,4 @@
-# Índice de Qualidade da Água(IQA)
+# IQA - Índice de Qualidade da Água
 O sofware tem como objetivo realizar o cálculo o Índice de Qualidade da Água(IQA).
 
 ##Usando o programa:
@@ -16,5 +16,3 @@ Após isso basta preencher os parametros solicitados pelo programa para saber o 
 
 #Observação:
 Para os usuários do SO Windows é necessario instalar o módulo **gcc**, para isso basta seguir a tutorial desse site: http://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/
-
-por [Douglas dos Santos Brito](https://github.com/dbrito)
